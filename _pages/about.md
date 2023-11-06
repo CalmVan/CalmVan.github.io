@@ -17,7 +17,7 @@ redirect_from:
 Short Bio
 ===
 
-I am **Wenhan Chen(陈文瀚)**, a first-year Ph.D. student in [Computer Vision Lab](https://ivi.fnwi.uva.nl/cv/)at the Informatics Institute, [University of Amsterdam](https://ivi.uva.nl/), supervised by [Prof.dr.Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/).
+I am **Wenhan Chen(陈文瀚)**, a first-year Ph.D. student in [Computer Vision Lab](https://ivi.fnwi.uva.nl/cv/) at the Informatics Institute, [University of Amsterdam](https://ivi.uva.nl/), supervised by [Prof.dr.Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/).
 
 Before that, I got my Master's degree from [University of Leeds](https://www.leeds.ac.uk/) under the supervision of [Prof.dr.Brandon Bennett](https://eps.leeds.ac.uk/computing/staff/121/dr-brandon-bennett), and my Bachelor's degree from [Beijing Jiaotong University](https://www.bjtu.edu.cn/), both in Computer science.
 
