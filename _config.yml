@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Wenhan Chen"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at University of Amsterdam"
+  bio              : "PhD Candidate"
   location         : "Netherlands.Amsterdam"
-  employer         :
+  employer         : "University of Amsterdam"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "wh.chen@uva.nl"
